@@ -1,0 +1,1 @@
+["Apple", "Banana", "Carrot", "Onion", "Potato", "Tomato", "Lemon", "Orange", "Egg", "Bread", "Rice", "Milk", "Yogurt", "Biscuits", "Sugar", "Coffee", "Tea", "Spaghetti", "Chicken", "Fish", "Butter", "Salt", "Pepper", "Oil", "Shampoo"]

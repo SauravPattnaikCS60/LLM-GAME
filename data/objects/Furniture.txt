@@ -1,0 +1,1 @@
+['Sofa', 'Bed', 'Chair', 'Table', 'Desk', 'Wardrobe', 'Dresser', 'Bookshelf', 'Couch', 'Armchair', 'Coffee Table', 'TV Stand', 'Nightstand', 'Dining Table', 'End Table', 'Ottoman', 'Recliner', 'Chaise Lounge', 'Futon', 'Hammock', 'Bar Stool', 'Patio Set', 'Lamp', 'Armoire']

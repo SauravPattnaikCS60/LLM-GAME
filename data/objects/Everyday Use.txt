@@ -1,0 +1,1 @@
+["Pillow", "Bed", "Chair", "Table", "Phone", "Laptop", "Toilet", "Shower", "Mirror", "Soap", "Toothbrush", "Toothpaste", "Mop", "Broom", "Dustpan", "Vacuum Cleaner", "TV", "Refrigerator", "Washing Machine", "Dishwasher", "Air Conditioner", "Hair Dryer", "Iron", "Clock", "Radio"]

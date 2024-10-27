@@ -1,0 +1,1 @@
+['Smartphone', 'Laptop', 'Television', 'Tablet', 'Watch', 'Headphones', 'Speaker', 'Refrigerator', 'Air Conditioner', 'Washing Machine', 'Oven', 'Microwave', 'Vacuum Cleaner', 'Iron', 'Printer', 'Scanner', 'Projector', 'Camera', 'Computer Mouse', 'Keyboard', 'Radio', 'MP3 Player', 'Gaming Console', 'DVD Player', 'Desktop Computer']
